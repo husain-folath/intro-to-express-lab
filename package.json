@@ -9,5 +9,8 @@
   "author": "General Assembly",
   "devDependencies": {
     "ga-mdlint": "^1.0.1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
